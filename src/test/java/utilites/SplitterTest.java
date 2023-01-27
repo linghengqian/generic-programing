@@ -1,4 +1,4 @@
-package java.utilites;
+package utilites;
 
 import com.google.common.base.Splitter;
 import org.junit.Test;
